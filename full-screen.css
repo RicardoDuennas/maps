@@ -8,7 +8,6 @@
 .map:fullscreen {
   height: 100%;
 }
-/* position the rotate control lower than usual */
 .map .ol-rotate {
   top: 3em;
 }
